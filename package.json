@@ -1,0 +1,7 @@
+{
+    "name": "ios-ai-proxy",
+    "version": "1.0.0",
+    "description": "Backend proxy for iOS AI app",
+    "main": "api/generate.js",
+    "type": "module"
+  }
