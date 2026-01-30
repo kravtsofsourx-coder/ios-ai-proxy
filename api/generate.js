@@ -21,7 +21,7 @@ export default async function handler(req, res) {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          version: "your-model-version-here", // You'll need to replace this
+          version: "111arpt4pnrma0cpydtr8n0qx0", // You'll need to replace this
           input: {
             image: image,
             prompt: prompt,
